@@ -1,0 +1,12 @@
+app
+.next
+public
+realmEmailProvider
+.gitignore
+next-env.d.ts
+postcss.config.js
+tailwind.config.ts
+tsconfig-components.json
+tsconfig.json
+.env.local
+bun.lockb
