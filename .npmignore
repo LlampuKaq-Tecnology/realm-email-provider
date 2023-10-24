@@ -10,3 +10,4 @@ tsconfig-components.json
 tsconfig.json
 .env.local
 bun.lockb
+pages
