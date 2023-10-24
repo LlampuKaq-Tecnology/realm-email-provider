@@ -1,5 +1,6 @@
 {
   "name": "@llampukaq/realm-email-provider",
+  "version": "0.1.4",
   "license": "MIT",
   "description": "Email Provider Realm",
   "publishConfig": {
@@ -13,12 +14,11 @@
     "url": "https://www.llampukaq.com/"
   },
   "author": {
-    "email": "llampukaq@llampukaq",
+    "email": "llampukaq@llampukaq.com",
     "name": "Llampukaq technology",
     "url": "https://www.llampukaq.com/"
   },
   "homepage": "https://realm.llampukaq.com/plugins/EmailProvider",
-  "version": "0.1.4",
   "main": "dist/realmEmailProvider/index.js",
   "typings": "dist/realmEmailProvider/index.d.ts",
   "scripts": {
