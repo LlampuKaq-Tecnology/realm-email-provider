@@ -1,6 +1,6 @@
 {
   "name": "@llampukaq/realm-email-provider",
-  "version": "0.1.4",
+  "version": "0.1.422",
   "license": "MIT",
   "description": "Email Provider Realm",
   "publishConfig": {
@@ -28,7 +28,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@llampukaq/realm": "^0.2.7",
+    "@llampukaq/realm": "^0.2.727",
     "@types/node": "20.6.0",
     "@types/react": "18.2.21",
     "@types/react-dom": "18.2.7",
@@ -40,6 +40,5 @@
     "react-dom": "18.2.0",
     "tailwindcss": "3.3.3",
     "typescript": "5.2.2"
-  },
-  "devDependencies": {}
+  }
 }
